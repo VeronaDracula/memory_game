@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/memory_game/static/css/main.ce99f199.css",
+    "main.js": "/memory_game/static/js/main.8a47a73d.js",
+    "static/js/787.18b835fd.chunk.js": "/memory_game/static/js/787.18b835fd.chunk.js",
+    "static/media/Inter-Medium.woff": "/memory_game/static/media/Inter-Medium.f5549f68ca7db479bc7d.woff",
+    "static/media/Inter-Black.woff": "/memory_game/static/media/Inter-Black.e258f99875304915b846.woff",
+    "static/media/Inter-Regular.woff": "/memory_game/static/media/Inter-Regular.8398b3762d7b06fc3b8c.woff",
+    "index.html": "/memory_game/index.html",
+    "main.ce99f199.css.map": "/memory_game/static/css/main.ce99f199.css.map",
+    "main.8a47a73d.js.map": "/memory_game/static/js/main.8a47a73d.js.map",
+    "787.18b835fd.chunk.js.map": "/memory_game/static/js/787.18b835fd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce99f199.css",
+    "static/js/main.8a47a73d.js"
+  ]
+}
