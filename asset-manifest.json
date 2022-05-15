@@ -1,18 +1,25 @@
 {
   "files": {
-    "main.css": "/memory_game/static/css/main.ce99f199.css",
-    "main.js": "/memory_game/static/js/main.8a47a73d.js",
+    "main.css": "/memory_game/static/css/main.ae9e5ade.css",
+    "main.js": "/memory_game/static/js/main.7f616b64.js",
     "static/js/787.18b835fd.chunk.js": "/memory_game/static/js/787.18b835fd.chunk.js",
+    "static/media/raccoon.jpg": "/memory_game/static/media/raccoon.e9c800b0e8a0c25eef10.jpg",
+    "static/media/cat.jpg": "/memory_game/static/media/cat.3272c0157a9388a5a86f.jpg",
+    "static/media/koala.jpg": "/memory_game/static/media/koala.c7228882aa09696be177.jpg",
+    "static/media/owl.jpg": "/memory_game/static/media/owl.bf41ed64214cbf88a4f4.jpg",
+    "static/media/wolf.jpg": "/memory_game/static/media/wolf.3e4230ef8c40b9586829.jpg",
+    "static/media/squirrel.jpg": "/memory_game/static/media/squirrel.91a74772490abcee2706.jpg",
+    "static/media/card-back.jpg": "/memory_game/static/media/card-back.424adcf213d90af93aca.jpg",
     "static/media/Inter-Medium.woff": "/memory_game/static/media/Inter-Medium.f5549f68ca7db479bc7d.woff",
     "static/media/Inter-Black.woff": "/memory_game/static/media/Inter-Black.e258f99875304915b846.woff",
     "static/media/Inter-Regular.woff": "/memory_game/static/media/Inter-Regular.8398b3762d7b06fc3b8c.woff",
     "index.html": "/memory_game/index.html",
-    "main.ce99f199.css.map": "/memory_game/static/css/main.ce99f199.css.map",
-    "main.8a47a73d.js.map": "/memory_game/static/js/main.8a47a73d.js.map",
+    "main.ae9e5ade.css.map": "/memory_game/static/css/main.ae9e5ade.css.map",
+    "main.7f616b64.js.map": "/memory_game/static/js/main.7f616b64.js.map",
     "787.18b835fd.chunk.js.map": "/memory_game/static/js/787.18b835fd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ce99f199.css",
-    "static/js/main.8a47a73d.js"
+    "static/css/main.ae9e5ade.css",
+    "static/js/main.7f616b64.js"
   ]
 }
