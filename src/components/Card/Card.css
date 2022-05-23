@@ -1,0 +1,20 @@
+.card {
+    border-radius: 10px;
+    /*transition: all 0.5s;*/
+    list-style: none;
+}
+
+.card_active {
+    /*transform: scaleX(-1);*/
+}
+
+.card:hover {
+    cursor: pointer;
+}
+
+.card__img {
+    border-radius: 10px;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
