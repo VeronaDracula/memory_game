@@ -5,18 +5,16 @@ import './Main.css';
 import Card from "../Card/Card.js";
 import Footer from '../Footer/Footer.js';
 
+
 function Main(props) {
 
-    // const [cards, setCards] = React.useState([]);
+    let openCards = [];
 
-    // function round() {
-    //     const cardImg = document.querySelector('.card__img');
-    //     cardImg.setAttribute('src', props.card.img);
-    // }
+    function handleCardClick(card) {
+        openCards.push(card.name);
+        console.log(openCards);
+    }
 
-    // function openCard(card) {
-    //
-    // }
 
     function shuffleArray(array) {
         for (let i = array.length - 1; i > 0; i--) {
@@ -27,6 +25,8 @@ function Main(props) {
         }
         return array;
     }
+
+    // setCards(shuffleArray(props.cards));
 
     const cards = shuffleArray(props.cards);
 
@@ -40,6 +40,7 @@ function Main(props) {
                                                       img={card.img}
                                                       cover={card.cover}
                                                       key={card.id}
+                                                onCardClick={handleCardClick}
                         />)
                     )}
                 </ul>
