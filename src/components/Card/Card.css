@@ -5,6 +5,11 @@
     list-style: none;
 }
 
+.card_delete {
+    opacity: 0;
+}
+
+
 .card_active {
     /*transform: scaleX(-1);*/
 }
