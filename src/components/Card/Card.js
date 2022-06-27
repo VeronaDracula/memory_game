@@ -4,8 +4,8 @@ import './Card.css';
 
 function Card(props) {
 
-    const cardCover = (
-        `${props.isClick ? 'card__cover-box card__cover-box_inactive' : 'card__cover-box'}`
+    const cardClass = (
+        `${props.isClick ? 'card card_active' : 'card'}`
     );
 
     function handleClick() {
@@ -13,8 +13,8 @@ function Card(props) {
     }
 
     return (
-        <li className="card" id={props.id} onClick={handleClick}>
-            <div className={cardCover}>
+        <li className={cardClass} onClick={handleClick}>
+            <div className="card__cover-box">
                 <img className="card__cover" src={props.cover} alt={props.name}/>
             </div>
 
