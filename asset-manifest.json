@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/memory_game/static/css/main.5848b6dc.css",
+    "main.css": "/memory_game/static/css/main.8f27cabd.css",
     "main.js": "/memory_game/static/js/main.50411bd7.js",
     "static/js/787.18b835fd.chunk.js": "/memory_game/static/js/787.18b835fd.chunk.js",
     "static/media/raccoon.jpg": "/memory_game/static/media/raccoon.e9c800b0e8a0c25eef10.jpg",
@@ -14,12 +14,12 @@
     "static/media/Inter-Black.woff": "/memory_game/static/media/Inter-Black.e258f99875304915b846.woff",
     "static/media/Inter-Regular.woff": "/memory_game/static/media/Inter-Regular.8398b3762d7b06fc3b8c.woff",
     "index.html": "/memory_game/index.html",
-    "main.5848b6dc.css.map": "/memory_game/static/css/main.5848b6dc.css.map",
+    "main.8f27cabd.css.map": "/memory_game/static/css/main.8f27cabd.css.map",
     "main.50411bd7.js.map": "/memory_game/static/js/main.50411bd7.js.map",
     "787.18b835fd.chunk.js.map": "/memory_game/static/js/787.18b835fd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5848b6dc.css",
+    "static/css/main.8f27cabd.css",
     "static/js/main.50411bd7.js"
   ]
 }
