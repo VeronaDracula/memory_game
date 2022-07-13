@@ -3,7 +3,6 @@ import './Main.css';
 
 
 import CardsList from "../CardsList/CardsList.js";
-import Footer from '../Footer/Footer.js';
 
 
 function Main(props) {

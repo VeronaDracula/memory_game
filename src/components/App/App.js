@@ -29,13 +29,11 @@ function App() {
       <div className="App">
           <div className="page">
               <div className="page__content">
-                  {/*<Header/>*/}
 
                   <Main
                       cards={cards}
                   />
 
-                  {/*<Footer/>*/}
               </div>
           </div>
       </div>
